@@ -1,0 +1,7 @@
+2019-10-18T18:30:07+00:00 DEBUG 
+====Stripe Version: 4.3.0====
+====Start Log====
+Error: Impossible de vérifier la clé secrète manquante du domaine.
+====End Log====
+
+

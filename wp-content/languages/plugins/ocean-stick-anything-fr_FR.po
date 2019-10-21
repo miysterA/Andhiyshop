@@ -1,0 +1,96 @@
+# Translation of Plugins - Ocean Stick Anything - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - Ocean Stick Anything - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-07-29 18:55:53+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Ocean Stick Anything - Stable (latest release)\n"
+
+#. Author URI of the plugin/theme
+msgid "https://oceanwp.org/"
+msgstr "https://oceanwp.org/"
+
+#. Author of the plugin/theme
+msgid "OceanWP"
+msgstr "OceanWP"
+
+#. Description of the plugin/theme
+msgid "A simple plugin to stick anything you want on your site."
+msgstr "Une simple extension pour épingler tout ce que vous voulez sur votre site web."
+
+#. Plugin URI of the plugin/theme
+msgid "https://oceanwp.org/extension/ocean-stick-anything/"
+msgstr "https://oceanwp.org/extension/ocean-stick-anything/"
+
+#. Plugin Name of the plugin/theme
+msgid "Ocean Stick Anything"
+msgstr "Ocean Stick Anything"
+
+#: ocean-stick-anything.php:381
+msgid "Read More"
+msgstr "Lire plus"
+
+#: ocean-stick-anything.php:380
+msgid "This plugin is a must-have for any type of website, it allow you to fix your header automatically or manually if you create a custom header style with many control settings."
+msgstr "Cette extension est un incontournable pour tout type de site web, elle vous permet d’épingler votre en-tête automatiquement ou manuellement si vous créez un style d’en-tête personnalisé avec de nombreux réglages de contrôle."
+
+#: ocean-stick-anything.php:378
+msgid "Ocean Sticky Header"
+msgstr "Ocean Sticky Header"
+
+#: ocean-stick-anything.php:343
+msgid "Un-stick From (px)"
+msgstr "Ne plus épingler à partir de (px)"
+
+#: ocean-stick-anything.php:336
+msgid "Here you can choose to un-stick the element(s) when your screen is smaller."
+msgstr "Ici, vous pouvez choisir de ne plus épingler les éléments lorsque votre écran est plus petit."
+
+#: ocean-stick-anything.php:333
+msgid "Responsive"
+msgstr "Responsive"
+
+#: ocean-stick-anything.php:324
+msgid "Add a space in pixels between the top of the page and the sticky element ."
+msgstr "Ajouter un espace en pixels entre le haut de la page et l’élément épinglé."
+
+#: ocean-stick-anything.php:319
+msgid "Offset (px)"
+msgstr "Décalage (px)"
+
+#: ocean-stick-anything.php:313
+msgid "Add the element(s) you want to stick separated by a comma. If you want to stick the sidebar, add \".widget-area\"."
+msgstr "Ajoutez les éléments que vous souhaitez épingler séparés par des virgules. Si vous souhaitez épingler la colonne latérale, ajoutez « .widget-area »."
+
+#: ocean-stick-anything.php:308
+msgid "Elements"
+msgstr "Éléments"
+
+#: ocean-stick-anything.php:298
+msgid "You need to add your CSS selector in the Elements field, %1$sfollow this article%2$s to know how to get a CSS selector."
+msgstr "Vous devez ajouter votre sélecteur CSS dans le champ éléments, %1$ssuivez cet article%2$s pour savoir comment obtenir un sélecteur CSS."
+
+#: ocean-stick-anything.php:294
+msgid "Stick"
+msgstr "Épingler"
+
+#: ocean-stick-anything.php:274
+msgid "On this page, you can stick any element of your site just by adding the elements in the input."
+msgstr "Sur cette page, vous pouvez épingler n’importe quel élément de votre site simplement en ajoutant les éléments dans l’entrée."
+
+#: ocean-stick-anything.php:273
+msgid "Stick Anything"
+msgstr "Épingler n’importe quoi"
+
+#: ocean-stick-anything.php:237 ocean-stick-anything.php:238
+msgid "Stick Elements"
+msgstr "Épingler des éléments"
+
+#: ocean-stick-anything.php:130 ocean-stick-anything.php:139
+msgid "Cheatin&#8217; huh?"
+msgstr "Une fausse manipulation ?"
